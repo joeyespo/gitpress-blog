@@ -1,5 +1,5 @@
-Init
-====
+Gitpress Init
+=============
 
 This is first official post of Gitpress!
 
