@@ -1,7 +1,7 @@
 Gitpress Blog
 =============
 
-Beautiful blogging for hackers. The Blog.
+Blissful blogging for hackers. The Blog.
 
 [http://gitpress-cms.com](http://gitpress-cms.com)
 
