@@ -14,5 +14,14 @@ writing, I had no idea what Gitpress will look like by then. Well ok.
 I do have an idea. But ideas get lost in implementation. Especially
 when you listen to feedback which is exactly what I intend to do.
 
+Do you have any thoughts? [Leave a comment on Github][comment],
+[fork the blog][fork], or [contact me][contact] directly.
+
+Check out [Gitpress][]. This blog is presented with it.
+
 [site]: http://gitpress-cms.com
 [post]: https://github.com/joeyespo/gitpress-blog/blob/master/2012/01-init.md
+[fork]: https://github.com/joeyespo/gitpress-blog/
+[comment]: https://github.com/joeyespo/gitpress-blog/commits/master/2012/01-init.md
+[contact]: mailto:joeyespo@gmail.com
+[Gitpress]: https://github.com/joeyespo/gitpress
