@@ -4,8 +4,8 @@ Init
 This is first official post of Gitpress!
 
 This is a milestone, considering not a single line of code for Gitpress has
-been written. The project is still early in the design phase. However, Gitpress will
-be eating its own dog food. Consider this post a declaration.
+been written. The project is still early in the design phase. However, I'll
+be eating my own dog food here. Consider this post a declaration.
 
 If you're reading this on [gitpress-cms.com][site], then things must be going
 well! The source of this post [has always been available on Github][post], long
