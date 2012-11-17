@@ -7,7 +7,12 @@ This is a milestone, considering not one line of code for Gitpress has been
 written. The project is still in the early design phase. However, Gitpress will
 be eating its own dog food. Consider this post a declaration.
 
-If you're reading this on [gitpress-cms.com](http://gitpress-cms.com), then
-things must be going well. The source of this post [will be available
-on Github](http://github.com/joeyespo/gitpress-blog/blob/master/2012/01-init.md)
-long before it is officially published.
+If you're reading this on [gitpress-cms.com][site], then things must be going
+well! The source of this post [has always been available on Github][post], long
+before it was officially published. For the record, at the time of this
+writing, I had no idea what Gitpress will look like by then. Well ok.
+I do have an idea. But ideas get lost in implementation. Especially
+when you listen to feedback which is exactly what I intend to do.
+
+[site]: http://gitpress-cms.com
+[post]: https://github.com/joeyespo/gitpress-blog/blob/master/2012/01-init.md
